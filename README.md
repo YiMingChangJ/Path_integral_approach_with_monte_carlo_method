@@ -10,7 +10,7 @@ FPIMC_1d2dv3.py: It is unparallelized 1d and 2d Feynman's Quantum path integral 
 		
 FPIMC_3dv0.py: It is unparallelized 3d Feynman's Quantum path integral Monte Carlo (FPIMC) approach, solved
                ground state wavefunction with harmonic oscillator. It hasn't validate with any analytical solutions. 
-	       The three dimensional python has not complete since, I am not sure how to plot 4 dimensional |psi(r,t)|^2, 
+	       The three dimensional python has not complete since, I am not sure how to plot 4 dimensional $|\psi(\mathbf{r},t)|^2$, 
 	       but I think that I accidentally plot the first excitation probability distribution from it. I am not sure if it is 
 	       correct, so I did not report it in my final report. 
 
