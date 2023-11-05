@@ -20,4 +20,4 @@ FPIMC_MPI2dv0.py: Parallel simulation (MPI4py) code with numba to 2d ground stat
 
 Computational time.py: Plot the simulation time from 2D Path Integral MC with various cores and nodes with numba
 
-Excel file is just to record the simulation time.
+Excel file is just to record the simulation time. For the details of the project please read the "Research_project_of_879".
