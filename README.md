@@ -3,6 +3,7 @@ Feynman’s Path Integral Monte Carlo approach with Metropolis and Lattice Quant
 
 There are five Python files:
 
+Please apply "%matplotlib auto" to the console before run the following code.
 **FPIMC_1d2dv3.py:** It is unparallelized 1d and 2d Feynman's Quantum path integral Monte Carlo (FPIMC) approach, solved
           	 ground state wavefunction with harmonic oscillator. The computational method used Metropolis Algorithm.
 		 The 1d FPIMC has validated with the analytical solution of ground state probability distribution and 
