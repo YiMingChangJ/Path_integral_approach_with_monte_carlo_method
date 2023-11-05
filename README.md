@@ -1,6 +1,5 @@
 # Path_integral_approach_with_monte_carlo
-Feynman’s Path Integral Monte Carlo Apporech:
-
+Feynman’s Path Integral Monte Carlo approach with Metropolis and Lattice Quantum Mechanics algorithm:
 There are five Python files:
 
 FPIMC_1d2dv3.py: It is unparallelized 1d and 2d Feynman's Quantum path integral Monte Carlo (FPIMC) approach, solved
