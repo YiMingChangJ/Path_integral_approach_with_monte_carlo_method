@@ -8,10 +8,6 @@ FPIMC_1d2dv3.py: It is unparallelized 1d and 2d Feynman's Quantum path integral 
 		 The 1d FPIMC has validated with the analytical solution of ground state probability distribution and 
 		 values of $\braket{x}$, $\braket{x^2}$, $\braket{x^3}$ and $\braket{x^4}$ and ground state energy of harmonic oscillator.
 		
-		 The 2d FPIMC has compared with the analytical solution of ground state probability distribution. However,
-		 I am not sure how to calculate expectation values for 2d ground state wavefunction. Thus, I did not calculate the
-		 ground state energy for 2d.
-
 FPIMC_3dv0.py: It is unparallelized 3d Feynman's Quantum path integral Monte Carlo (FPIMC) approach, solved
                ground state wavefunction with harmonic oscillator. It hasn't validate with any analytical solutions. 
 	       The three dimensional python has not complete since, I am not sure how to plot 4 dimensional |psi(r,t)|^2, 
