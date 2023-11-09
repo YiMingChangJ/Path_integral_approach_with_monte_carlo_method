@@ -2,6 +2,7 @@
 Feynman’s Path Integral Monte Carlo approach with Metropolis and Lattice Quantum Mechanics algorithm:
 
 For the details of the project please read the PDF file: **"Research_project_of_879.pdf"**.
+
 There are five Python files:
 
 Please apply "%matplotlib auto" to the console before run the following code.
