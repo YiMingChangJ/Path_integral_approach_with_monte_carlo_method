@@ -27,7 +27,7 @@ Excel file is just to record the simulation time.
 
 [View the PDF](Harmonic_oscillator_ground_statePathIntegral.pdf)
 
-[View the PDF](Numerical_G2d PathIntegral.pdf)
+[View the PDF](Numerical_G2d_PathIntegral.pdf)
 
-[View the PDF](Numerical_G3d PathIntegral.pdf)
+[View the PDF](Numerical_G3d_PathIntegral.pdf)
 
