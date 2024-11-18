@@ -24,3 +24,4 @@ Please apply "%matplotlib auto" to the console before run the following code.
 **Computational time.py:** Plot the simulation time from 2D Path Integral MC with various cores and nodes with numba
 
 Excel file is just to record the simulation time. 
+[View the PDF](path/to/your/file.pdf)
