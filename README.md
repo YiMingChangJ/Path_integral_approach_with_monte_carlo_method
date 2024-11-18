@@ -31,4 +31,4 @@ Excel file is just to record the simulation time.
 
 [View the PDF](Numerical_G3d_PathIntegral.pdf)
 
-![Alt text](Feynman_Path_Integral.png)
+![Alt text](Feynman_Path_Integral.jpg)
