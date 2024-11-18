@@ -25,6 +25,12 @@ Please apply "%matplotlib auto" to the console before run the following code.
 
 Excel file is just to record the simulation time. 
 
+Comparison of numerical solution of 1D Feynman’s Path Integral with analytical probability distribution of 1D ground-state wavefunction on Harmonic Oscillator, where numerical result is demonstrated in histogram with bins = 40, 5000 paths, 200 time slices and 100 timesteps; the black curve
+is analytical result obtain from 1D ground-state wavefunction with the Harmonic Oscillator:
 <img src="Harmonic_oscillator_ground_statePathIntegral.jpg" alt="Description" width="300">
+
+The two-dimensional plot of numerical and analytical probability distribution of 2D ground-state wavefunction on Harmonic Oscillator. Numerical 2D Path for 10000 paths, 100 time slices and 100 timesteps and plot in histogram with bins = 40:
 <img src="Numercial_G2d_PathIntegral.jpg" alt="Description" width="300">
+
+The three-dimensional plot of numerical and analytical probability distribution of 2D ground-state wavefunction on Harmonic Oscillator. Numerical 2D Path for 10000 paths, 100 time slices and 100 timesteps and plot in histogram with bins = 40:
 <img src="Numerical_G3d_PathIntegral.jpg" alt="Description" width="300">
