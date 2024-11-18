@@ -26,7 +26,5 @@ Please apply "%matplotlib auto" to the console before run the following code.
 Excel file is just to record the simulation time. 
 
 <img src="Harmonic_oscillator_ground_statePathIntegral.jpg" alt="Description" width="300">
-
-![Alt text](Numercial_G2d_PathIntegral.jpg)
-
-![Alt text](Numerical_G3d_PathIntegral.jpg)
+<img src="Numercial_G2d_PathIntegral.jpg" alt="Description" width="300">
+<img src="Numerical_G3d_PathIntegral.jpg" alt="Description" width="300">
