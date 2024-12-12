@@ -1,6 +1,28 @@
 # Path_integral_approach_with_monte_carlo
 Feynman’s Path Integral Monte Carlo approach with Metropolis and Lattice Quantum Mechanics algorithm:
 
+# README: Feynman's Quantum Path Integration - Monte Carlo Simulation with Metropolis and Lattice Quantum Mechanics Algorithm:
+
+## Overview
+This project implements a 1D and 2D Feynman's Quantum Path Integral Monte Carlo (PIMC) approach for solving the ground state wavefunction of a harmonic oscillator using a variational method. The code utilizes the Metropolis algorithm to update paths and estimate the system's quantum properties.
+
+### Project Information:
+- **Course**: ENPH/PHYS 479/879 - High Performance Computational Physics (Winter Term, 2022)
+- **Project Title**: Feynman's Quantum Path Integration - Variational Approach to Ground State Wavefunction of Quantum Oscillator
+---
+
+## Setup Instructions
+
+Before running the code, please ensure that you are using the correct Python environment and have installed all necessary dependencies. Additionally, you need to enable matplotlib's interactive mode for visualization by applying the following command in your console:
+
+```python
+%matplotlib auto
+```
+
+This command ensures that matplotlib updates the plot dynamically.
+---
+## File Overview:
+
 For the details of the project please read the PDF file: **"Research_project_of_879.pdf"**.
 
 There are five Python files:
@@ -24,32 +46,6 @@ Please apply "%matplotlib auto" to the console before run the following code.
 **Computational time.py:** Plot the simulation time from 2D Path Integral MC with various cores and nodes with numba
 
 Excel file is just to record the simulation time. 
-# README: Feynman's Quantum Path Integration - Monte Carlo Simulation
-
-## Overview
-This project implements a 1D and 2D Feynman's Quantum Path Integral Monte Carlo (PIMC) approach for solving the ground state wavefunction of a harmonic oscillator using a variational method. The code utilizes the Metropolis algorithm to update paths and estimate the system's quantum properties.
-
-### Project Information:
-- **Course**: ENPH/PHYS 479/879 - High Performance Computational Physics (Winter Term, 2022)
-- **Project Title**: Feynman's Quantum Path Integration - Variational Approach to Ground State Wavefunction of Quantum Oscillator
-- **Author**: Yi-Ming Chang
-- **Student ID**: 20296862
-- **Email**: 21ymc@queensu.ca
-- **Instructor**: Prof. S. Hughes
-
----
-
-## Setup Instructions
-
-Before running the code, please ensure that you are using the correct Python environment and have installed all necessary dependencies. Additionally, you need to enable matplotlib's interactive mode for visualization by applying the following command in your console:
-
-```python
-%matplotlib auto
-```
-
-This command ensures that matplotlib updates the plot dynamically.
-
----
 
 ## Code Overview
 
@@ -114,17 +110,11 @@ Ensure that you have the following libraries installed:
 - `numba`: For just-in-time compilation to speed up the code.
 
 You can install them using `pip`:
-
 ```bash
 pip install numpy matplotlib numba
 ```
 
 ---
-
-## Acknowledgements
-
-This project was completed as part of the ENPH/PHYS 479/879 course under the guidance of Prof. S. Hughes at Queen's University. It implements the quantum path integral approach to simulate the ground state of a quantum harmonic oscillator.
-
 Comparison of numerical solution of 1D Feynman’s Path Integral with analytical probability distribution of 1D ground-state wavefunction on Harmonic Oscillator, where numerical result is demonstrated in histogram with bins = 40, 5000 paths, 200 time slices and 100 timesteps; the black curve
 is analytical result obtain from 1D ground-state wavefunction with the Harmonic Oscillator:
 <p align="center">
@@ -140,4 +130,8 @@ The three-dimensional plot of numerical and analytical probability distribution 
 <p align="center">
 <img src="Numerical_G3d_PathIntegral.jpg" alt="Description" width="400">
 </p>
+
+## Acknowledgements
+
+This project was completed as part of the ENPH/PHYS 479/879 course under the guidance of Prof. S. Hughes at Queen's University. It implements the quantum path integral approach to simulate the ground state of a quantum harmonic oscillator.
 
