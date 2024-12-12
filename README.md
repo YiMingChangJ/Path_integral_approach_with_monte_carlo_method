@@ -55,10 +55,10 @@ The code consists of several subroutines, each addressing specific parts of the 
 - **Paths_generator**: Generates the paths for the simulation.
 - **Path_Integral_MC2d**: Extension of the 1D path integral method to 2D.
 - **Action**: Calculates the action \( S \) at each point in the path (Equation 9 in the report).
-- **V**: Defines the potential function for the harmonic oscillator \( V(x) = \frac{1}{2}m\omega^2x^2 \).
+- **V**: Defines the potential function for the harmonic oscillator $\( V(x) = \frac{1}{2}m\omega^2x^2 \)$.
 - **graph**: Visualizes the path evolution during the simulation.
-- **Expectations**: Computes various expectation values such as \( \langle x \rangle \), \( \langle x^2 \rangle \), \( \langle x^3 \rangle \), and \( \langle x^4 \rangle \).
-- **ground_state_energy**: Calculates the ground state energy based on the expectation values of \( \langle x^2 \rangle \) and \( \langle x \rangle \).
+- **Expectations**: Computes various expectation values such as $\( \langle x \rangle \), \( \langle x^2 \rangle \), \( \langle x^3 \rangle \), and \( \langle x^4 \rangle \)$.
+- **ground_state_energy**: Calculates the ground state energy based on the expectation values of $\( \langle x^2 \rangle \) and \( \langle x \rangle \)$.
 
 ---
 
@@ -95,7 +95,7 @@ You can modify these parameters in the script to experiment with different confi
 To run the simulation, simply execute the script. The path evolution will be displayed in real time, and the final output will be the comparison of numerical and analytical solutions for the probability distribution, as well as the calculated ground state energy.
 
 ### Example Outputs:
-- **Ground state energy** calculated as a function of \( \Delta t \).
+- **Ground state energy** calculated as a function of \( $\Delta t$ \).
 - **Probability density** for the ground state, comparing numerical and analytical solutions.
 - **Path visualization** showing the evolution of the particle's path over time.
 
