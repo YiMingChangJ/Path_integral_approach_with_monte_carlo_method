@@ -1,7 +1,5 @@
-# Path_integral_approach_with_monte_carlo
+# Feynman's Quantum Path Integration - Monte Carlo Simulation with Metropolis and Lattice Quantum Mechanics Algorithm:
 Feynman’s Path Integral Monte Carlo approach with Metropolis and Lattice Quantum Mechanics algorithm:
-
-# README: Feynman's Quantum Path Integration - Monte Carlo Simulation with Metropolis and Lattice Quantum Mechanics Algorithm:
 
 ## Overview
 This project implements a 1D and 2D Feynman's Quantum Path Integral Monte Carlo (PIMC) approach for solving the ground state wavefunction of a harmonic oscillator using a variational method. The code utilizes the Metropolis algorithm to update paths and estimate the system's quantum properties.
